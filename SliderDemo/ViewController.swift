@@ -64,7 +64,7 @@ class ViewController: UIViewController {
         sliderTextLabel()
     }
     
-    //關閉AlphaSliderSwitch
+    //切換Switch
     @IBAction func gradualColorChangeSw(_ sender: UISwitch) {
         
         if gradualSwitch.isOn {
